@@ -1,0 +1,10 @@
+ipykernel
+jupyter
+jupyterlab
+influxdb3-python
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
